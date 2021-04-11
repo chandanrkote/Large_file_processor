@@ -10,7 +10,7 @@ System which to handle long running processes in distributed systems.
     3. SSMS:- To check how data is inserting basically to test the workflow.
     
     
-3. Details of all the tables and their schema, [with commands to recreate them]
+# 2. Details of all the tables and their schema, [with commands to recreate them]
    
    Initially I have created Database called PRODUCT which do not have any tables.
    
