@@ -36,22 +36,14 @@ System which to handle long running processes in distributed systems.
         
        3. Support for updating existing products in the table based on `sku` as the primary key. (Yes, we know about the kind of data in the file. You need to find a workaround for it)
                     Yes, It will support.Here is the one example
-                    
-                    
-                    
-                 ![image](https://user-images.githubusercontent.com/31444645/114306864-e803d980-9afa-11eb-90cb-cc4be22934fd.png)
-
-
-
-
-
-
-
                    
-       5. All product details are to be ingested into a single table: -Yes ACHIEVED.....
-       6. An aggregated table on above rows with `name` and `no. of products` as the columns:- I have added SQL query to satisfy this condition. users can run this query in SSMS. 
+       4. All product details are to be ingested into a single table: -Yes ACHIEVED.....
+       5. An aggregated table on above rows with `name` and `no. of products` as the columns:- I have added SQL query to satisfy this condition. users can run this query in SSMS. 
 
-6. What is not done from “Points to achieve”. If not achieved write the possible reasons and current workarounds.
+# 6. What is not done from “Points to achieve”. If not achieved write the possible reasons and current workarounds.
+  As per my knowledge I am sure, I achieved all the points achieved mentioned in Points to achieve except point 5, I could have done that even more better.
+  I just wrote a SQL query but I should also implement that in PYTHON as well.
+  
 7. What would you improve if given more days
 
 
