@@ -53,14 +53,7 @@ System which to handle long running processes in distributed systems.
 
 # 8. Ingest the same file at least 2 times before submitting the assignment, without truncating the products table. 
 
-     1. First time Injestion
-
-                    
-                    ![image](https://user-images.githubusercontent.com/31444645/114307384-01a62080-9afd-11eb-81ed-b3e1d0217596.png)
-
-
-
-     2. Second time Injestion
+        Attached document with Screenshots
  
 
    
