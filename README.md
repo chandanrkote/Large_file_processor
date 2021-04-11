@@ -44,11 +44,22 @@ System which to handle long running processes in distributed systems.
   As per my knowledge I am sure, I achieved all the points achieved mentioned in Points to achieve except point 5, I could have done that even more better.
   I just wrote a SQL query but I should also implement that in PYTHON as well.
   
-7. What would you improve if given more days
+# 7. What would you improve if given more days
 
    I wrote code which will do basic operations to achive the given goal. We could implement many functions like
    1. To handle file exception if there is no file mentioned
    2. To handle if there is any problem while connecting to the Server.
    3. If files are corrupted and even more.....................
+
+# 8. Ingest the same file at least 2 times before submitting the assignment, without truncating the products table. 
+
+     1. First time Injestion
+
+                     ![image](https://user-images.githubusercontent.com/31444645/114307349-d7546300-9afc-11eb-801a-983cfc7c72a2.png)
+
+
+     2. Second time Injestion
+
+
    
 
