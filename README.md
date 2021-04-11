@@ -13,6 +13,9 @@ System which to handle long running processes in distributed systems.
 3. Details of all the tables and their schema, [with commands to recreate them]
    
    Initially I have created Database called PRODUCT which do not have any tables.
+   
+   
+   
    ![image](https://user-images.githubusercontent.com/31444645/114305778-3b742880-9af7-11eb-84d5-ba8a5c30cfc1.png)
 
    
