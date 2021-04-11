@@ -55,11 +55,12 @@ System which to handle long running processes in distributed systems.
 
      1. First time Injestion
 
-                     ![image](https://user-images.githubusercontent.com/31444645/114307349-d7546300-9afc-11eb-801a-983cfc7c72a2.png)
+                    ![image](https://user-images.githubusercontent.com/31444645/114307366-efc47d80-9afc-11eb-8962-1b119f9d9ccd.png)
+
 
 
      2. Second time Injestion
-
+ 
 
    
 
