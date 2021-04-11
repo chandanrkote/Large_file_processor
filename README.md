@@ -39,16 +39,17 @@ System which to handle long running processes in distributed systems.
                     
                     
                     
-                    ![image](https://user-images.githubusercontent.com/31444645/114306841-d7ebfa00-9afa-11eb-862b-b7967becbb6a.png)
+                 ![image](https://user-images.githubusercontent.com/31444645/114306864-e803d980-9afa-11eb-90cb-cc4be22934fd.png)
 
 
 
-                    
-                    
-                    
 
-       5. All product details are to be ingested into a single table
-       6. An aggregated table on above rows with `name` and `no. of products` as the columns
+
+
+
+                   
+       5. All product details are to be ingested into a single table: -Yes ACHIEVED.....
+       6. An aggregated table on above rows with `name` and `no. of products` as the columns:- I have added SQL query to satisfy this condition. users can run this query in SSMS. 
 
 6. What is not done from “Points to achieve”. If not achieved write the possible reasons and current workarounds.
 7. What would you improve if given more days
