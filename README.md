@@ -28,13 +28,23 @@ System which to handle long running processes in distributed systems.
 
    
 # 3. What is done from “Points to achieve” and number of entries in all your tables with sample 10 rows from each
-      ## 1.  Your code should follow concept of OOPS: -Yes!!!! It is achived........
+       1.  Your code should follow concept of OOPS: -Yes!!!! It is achived........
+       
        2. Support for regular non-blocking parallel ingestion of the given file into a table. Consider thinking about the scale of what should happen if the file is to be processed in 2 mins.
 
-        Time taken to insert the data to the table: -
+                    Time taken to insert the data to the table from CSV file:- 7-9 Secs
+        
        3. Support for updating existing products in the table based on `sku` as the primary key. (Yes, we know about the kind of data in the file. You need to find a workaround for it)
-       4. All product details are to be ingested into a single table
-       5. An aggregated table on above rows with `name` and `no. of products` as the columns
+                    Yes, It will support.Here is the one example
+                    
+                    
+                    ![image](https://user-images.githubusercontent.com/31444645/114306827-c30f6680-9afa-11eb-93ad-a7d9f2bb9f36.png)
+                    
+                    
+                    
+
+       5. All product details are to be ingested into a single table
+       6. An aggregated table on above rows with `name` and `no. of products` as the columns
 
 6. What is not done from “Points to achieve”. If not achieved write the possible reasons and current workarounds.
 7. What would you improve if given more days
