@@ -5,7 +5,7 @@ System which to handle long running processes in distributed systems.
 ----------------
 # 1. Steps to run your code. As less steps we are to run, better for you 
     To run this code: -
-    1. Need to have SSMS and Anaconda
+    1. Need to have SSMS and Anaconda (Jupyter notebook)
     2. Anacodea: - I Jupyter note book to write the python code.
     3. SSMS:- To check how data is inserting basically to test the workflow.
     
@@ -46,5 +46,9 @@ System which to handle long running processes in distributed systems.
   
 7. What would you improve if given more days
 
-
+   I wrote code which will do basic operations to achive the given goal. We could implement many functions like
+   1. To handle file exception if there is no file mentioned
+   2. To handle if there is any problem while connecting to the Server.
+   3. If files are corrupted and even more.....................
+   
 
