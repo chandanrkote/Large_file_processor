@@ -12,7 +12,7 @@ System which to handle long running processes in distributed systems.
     
 # 2. Details of all the tables and their schema, [with commands to recreate them]
    
-   Initially I have created Database called PRODUCT which do not have any tables.
+   1. Initially I have created Database called PRODUCT which do not have any tables.
    
    
    
@@ -20,11 +20,11 @@ System which to handle long running processes in distributed systems.
    
    
    
-   Next I created python notebook called Large file processor_Assignment  
-    1. Created Class as we need achieve OOPS concept
-    2. The init method used to connect to the Server and database. Here I am passing Sever name and Database name as Parameter
-    3. Other functions like create_table, drop_table, bulk_insert, update_by_sku functions also created to achieve the goal
-    4. Everything explained in code itself, please refer:)
+   2. Next I created python notebook called Large file processor_Assignment  
+       1. Created Class as we need achieve OOPS concept
+       2. The init method used to connect to the Server and database. Here I am passing Sever name and Database name as Parameter
+       3. Other functions like create_table, drop_table, bulk_insert, update_by_sku functions also created to achieve the goal
+       4. Everything explained in code itself, please refer:)
 
    
 5. What is done from “Points to achieve” and number of entries in all your tables with sample 10 rows from each
