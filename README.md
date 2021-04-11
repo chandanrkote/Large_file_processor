@@ -38,7 +38,11 @@ System which to handle long running processes in distributed systems.
                     Yes, It will support.Here is the one example
                     
                     
-                    ![image](https://user-images.githubusercontent.com/31444645/114306827-c30f6680-9afa-11eb-93ad-a7d9f2bb9f36.png)
+                    
+                    ![image](https://user-images.githubusercontent.com/31444645/114306841-d7ebfa00-9afa-11eb-862b-b7967becbb6a.png)
+
+
+
                     
                     
                     
