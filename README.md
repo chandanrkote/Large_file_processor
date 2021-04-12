@@ -6,7 +6,7 @@ System which to handle long running processes in distributed systems.
 # 1. Steps to run your code. As less steps we are to run, better for you 
     To run this code: -
     1. Need to have SSMS and Anaconda (Jupyter notebook)
-    2. Anacodea: - I Jupyter note book to write the python code.
+    2. Anaconda: - I Jupyter note book to write the python code.
     3. SSMS:- To check how data is inserting basically to test the workflow.
     
     
